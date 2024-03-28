@@ -155,7 +155,7 @@ header{
 }
 
 .imagen {
-    width: 300px;
+    width: 250px;
     position: relative;
     align-self: flex-start;
     align-content: space-around;
